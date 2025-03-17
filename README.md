@@ -41,8 +41,8 @@ Evaluation: Assess using accuracy, confusion matrix, precision, and recall.
 Optimization: Tune hyperparameters (layers, neurons, learning rate, batch size).
 ## PROGRAM
 
-### Name: 
-### Register Number:
+### Name: ARAVIND SAMY.P
+### Register Number:212222230011
 
 ```python
 class PeopleClassifier(nn.Module):
